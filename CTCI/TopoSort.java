@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 
 //**Code needs TReview
-//Video Link: https://www.youtube.com/watch?v=qFq6bcKBOH0
+
 
 public class TopoSort {
 

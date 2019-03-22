@@ -78,7 +78,7 @@ public class DoublyLinkedList {
 		list.insertItem(4);
 		list.printList();
 		System.out.println();
-		list.deleteItem();
+		list.deleteItem(4);
 		list.printList();
 
 		//list.deleteItem(5);

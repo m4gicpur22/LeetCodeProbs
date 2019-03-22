@@ -29,6 +29,7 @@ int searchInsert(int* nums, int numsSize, int target) {
         else
             low = mid + 1;       
     }
+    
     if(target > array[numsSize-1])
     	return numsSize;
     else if(target < array[0])
